@@ -47,14 +47,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Withdraw Funds from ANY NFT Contract!!](https://www.youtube.com/channel/UCwvdo8e2D26Jcw6Omhu48Fw)
-- [The Edge is the Future! What are Edge Functions? Exploring Netlify Edge Functions](https://www.youtube.com/channel/UCwvdo8e2D26Jcw6Omhu48Fw)
-- [Fastest Upgrade to React 18!! Only 1 Second! 🤯](https://www.youtube.com/channel/UCwvdo8e2D26Jcw6Omhu48Fw)
-- [5 Reasons You Should NOT Create an NFT Collection!!](https://www.youtube.com/channel/UCwvdo8e2D26Jcw6Omhu48Fw)
-- [Do You Need To Know Web Dev To Become A Web3 Developer? With Hashlips](https://www.youtube.com/channel/UCwvdo8e2D26Jcw6Omhu48Fw)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCwvdo8e2D26Jcw6Omhu48Fw)
+
 
 ---
 
