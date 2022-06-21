@@ -47,11 +47,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Withdraw Funds from ANY NFT Contract!!](https://www.youtube.com/watch?v=v-udnslmqIE)
-- [The Edge is the Future! What are Edge Functions? Exploring Netlify Edge Functions](https://www.youtube.com/watch?v=mQwWWxYd-SY)
-- [Fastest Upgrade to React 18!! Only 1 Second! 🤯](https://www.youtube.com/watch?v=JLyVyURIWG0)
-- [5 Reasons You Should NOT Create an NFT Collection!!](https://www.youtube.com/watch?v=1ktrrwasouc)
-- [Do You Need To Know Web Dev To Become A Web3 Developer? With Hashlips](https://www.youtube.com/watch?v=oQBRZMo0e34)
+- [database testing part 3](https://www.youtube.com/watch?v=TZ5Xa63p97I)
+- [collection runner &amp; terminal &amp; authentication in api](https://www.youtube.com/watch?v=IDOB4taiCd0)
+- [Automation Testing part1 &lpar;intro&rpar;](https://www.youtube.com/watch?v=02P2-P37A4M)
+- [running load test through CLI &lpar;Jmeter&rpar;](https://www.youtube.com/watch?v=pYSksJkx4Gg)
+- [Security Testing &lpar;cross site scripting&rpar;](https://www.youtube.com/watch?v=62sWBz5Phbs)
 <!-- YOUTUBE:END -->
 
 
