@@ -56,23 +56,6 @@
 
 
 
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Getting Started with MongoDB &amp; Mongoose](https://www.linkedin.com/in/ramy-rafat-947839164)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://www.linkedin.com/in/ramy-rafat-947839164)
-- [Microinteractions: Password Validation Animation](https://www.linkedin.com/in/ramy-rafat-947839164)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://www.linkedin.com/in/ramy-rafat-947839164)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://www.linkedin.com/in/ramy-rafat-947839164)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://www.linkedin.com/in/ramy-rafat-947839164)
-
----
-
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
